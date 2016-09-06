@@ -1,21 +1,21 @@
 {
   "name": "hw1-example",
   "version": "1.0.0",
-  "description": "Example of front techs homework #1",
+  "description": "Pokedex",
   "main": "index.html",
   "scripts": {
     "start": "node_modules/http-server/bin/http-server"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrontTechsTU/hw1-example.git"
+    "url": "https://github.com/mmintptr/Mint_hw1.git"
   },
   "author": "Tanawat Tassana",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FrontTechsTU/hw1-example/issues"
   },
-  "homepage": "https://github.com/FrontTechsTU/hw1-example#readme",
+  "homepage": "https://github.com/mmintptr/Mint_hw1.git",
   "devDependencies": {
     "http-server": "^0.9.0"
   }
